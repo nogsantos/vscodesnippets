@@ -1,0 +1,30 @@
+{
+    "Console.log": {
+        "prefix": "clg",
+        "body": [
+            "console.log('${1}', ${2});"
+        ],
+        "description": "Console log"
+    },
+    "Console.warning": {
+        "prefix": "clw",
+        "body": [
+            "console.warn('${1}', ${2});"
+        ],
+        "description": "Console warn"
+    },
+    "Console.information": {
+        "prefix": "cli",
+        "body": [
+            "console.info('${1}', ${2});"
+        ],
+        "description": "Console info"
+    },
+    "Console.error": {
+        "prefix": "cle",
+        "body": [
+            "console.error('${1}', ${2});"
+        ],
+        "description": "Console error"
+    }
+}
