@@ -1,0 +1,9 @@
+{
+    "Shell.code": {
+        "prefix": "msh",
+        "body": [
+            "```shell \n ${1} \n ```"
+        ],
+        "description": "Shell code tags"
+    }
+}
