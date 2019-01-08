@@ -1,9 +1,30 @@
 {
     "Shell.code": {
-        "prefix": "msh",
+        "prefix": "msb",
         "body": [
-            "```shell \n ${1} \n ```"
+            "```bash\n ${1} \n```"
         ],
-        "description": "Shell code tags"
+        "description": "Bash code tags"
+    },
+    "Java.code": {
+        "prefix": "msj",
+        "body": [
+            "```java\n ${1} \n```"
+        ],
+        "description": "Java code tags"
+    },
+    "JavaScrip.code": {
+        "prefix": "msjs",
+        "body": [
+            "```javascript\n ${1} \n```"
+        ],
+        "description": "JavaScript code tags"
+    },
+    "Css.code": {
+        "prefix": "msc",
+        "body": [
+            "```css\n ${1} \n```"
+        ],
+        "description": "Css code tags"
     }
 }
