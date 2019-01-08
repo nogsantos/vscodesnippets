@@ -6,7 +6,7 @@ Code snippets are templates that make it easier to enter repeating code patterns
 
 Use the bash to setup.
 
-Depending on your plaform, your user snippets file is located here:
+Depending on your platform, your user snippets file is located here:
 
 - Windows `%APPDATA%\Code\User\snippets\(language).json`
 - Mac `$HOME/Library/Application Support/Code/User/snippets/(language).json`
@@ -18,7 +18,7 @@ Depending on your plaform, your user snippets file is located here:
   <tbody>
     <tr>
       <th>Command</th>
-      <th>Descriptio</th>
+      <th>Description</th>
     </tr>
     <tr>
       <td>clg</td>
@@ -61,7 +61,7 @@ $ ln -fs ~/apps/vscodesnippets/javascript.json $HOME/Library/Application\ Suppor
   <tbody>
     <tr>
       <th>Command</th>
-      <th>Descriptio</th>
+      <th>Description</th>
     </tr>
     <tr>
       <td>msb</td>
